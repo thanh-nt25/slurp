@@ -15,5 +15,5 @@ wget -c -q $PROGRESS_OPT \
      -O audio/slurp_synth.tar.gz 2>&1 | tee audio/slurp_synth_download.log
 
 echo "Extracting packages to audio/slurp*"
-tar -zxvf audio/slurp_real.tar.gz -C audio
+#tar -zxvf audio/slurp_real.tar.gz -C audio
 tar -zxvf audio/slurp_synth.tar.gz -C audio
