@@ -16,4 +16,4 @@ wget -c -q $PROGRESS_OPT \
 
 echo "Extracting packages to audio/slurp*"
 #tar -zxvf audio/slurp_real.tar.gz -C audio
-tar -zxvf audio/slurp_synth.tar.gz -C audio
+#tar -zxvf audio/slurp_synth.tar.gz -C audio
